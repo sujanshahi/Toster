@@ -12,5 +12,7 @@ Project is created with:
 * Android Studio
 * Java
 	
-#### Here is the Screenshot for the Toaster App which has count function and toast function
+#### Here is the Screenshot for the Toaster App which has count, toast and screen rotation feature
 ![screenshot](../master/toster.png)
+![screenshot](../master/layout.png)
+
